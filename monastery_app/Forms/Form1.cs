@@ -111,5 +111,12 @@ namespace monastery_app
             offerform.Show();
             this.Hide();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            TodoesForm todoesForm = new TodoesForm();
+            todoesForm.Show();
+            this.Hide();
+        }
     }
 }
