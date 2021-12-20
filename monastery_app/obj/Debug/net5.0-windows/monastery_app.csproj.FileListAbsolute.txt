@@ -37,3 +37,4 @@ D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\D
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.TodoesForm.resources
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.SalariesForm.resources
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.NotesForm.resources
+D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.ScheduleWorksForm.resources

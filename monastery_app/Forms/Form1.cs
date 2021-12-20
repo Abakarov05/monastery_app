@@ -132,5 +132,12 @@ namespace monastery_app
             notesForm.Show();
             this.Hide();
         }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            ScheduleWorksForm scheduleWorksForm = new ScheduleWorksForm();
+            scheduleWorksForm.Show();
+            this.Hide();
+        }
     }
 }
