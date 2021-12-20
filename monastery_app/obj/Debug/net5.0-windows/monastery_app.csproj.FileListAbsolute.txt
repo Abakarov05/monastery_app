@@ -39,3 +39,6 @@ D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\D
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.NotesForm.resources
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.ScheduleWorksForm.resources
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.BudgetsForm.resources
+D:\Education\Курсовая работа\app\monastery_app\monastery_app\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Education\Курсовая работа\app\monastery_app\monastery_app\bin\Debug\net5.0-windows\itextsharp.dll
+D:\Education\Курсовая работа\app\monastery_app\monastery_app\bin\Debug\net5.0-windows\Maroquio.dll

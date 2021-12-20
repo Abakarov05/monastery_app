@@ -127,6 +127,7 @@
             this.Controls.Add(this.label1);
             this.Name = "ExportForm";
             this.Text = "ExportForm";
+            this.Load += new System.EventHandler(this.ExportForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataExport)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
