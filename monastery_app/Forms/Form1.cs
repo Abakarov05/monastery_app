@@ -104,5 +104,12 @@ namespace monastery_app
             usersForm.Show();
             this.Hide();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            OffersForm offerform = new OffersForm();
+            offerform.Show();
+            this.Hide();
+        }
     }
 }
