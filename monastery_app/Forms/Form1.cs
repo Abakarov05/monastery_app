@@ -125,5 +125,12 @@ namespace monastery_app
             salariesForm.Show();
             this.Hide();
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            NotesForm notesForm = new NotesForm();
+            notesForm.Show();
+            this.Hide();
+        }
     }
 }

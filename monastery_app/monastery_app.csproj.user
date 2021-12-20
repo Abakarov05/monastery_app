@@ -16,6 +16,9 @@
     <Compile Update="Forms\ItemsForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\NotesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\OffersForm.cs">
       <SubType>Form</SubType>
     </Compile>
