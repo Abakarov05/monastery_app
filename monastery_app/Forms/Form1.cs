@@ -139,5 +139,12 @@ namespace monastery_app
             scheduleWorksForm.Show();
             this.Hide();
         }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            BudgetsForm budgetsForm = new BudgetsForm();
+            budgetsForm.Show();
+            this.Hide();
+        }
     }
 }

@@ -203,6 +203,7 @@
             this.button14.TabIndex = 14;
             this.button14.Text = "Бюджет";
             this.button14.UseVisualStyleBackColor = true;
+            this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
             // button15
             // 
