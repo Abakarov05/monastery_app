@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3dae92ca-1cf8-479c-8515-b62431eca83f": {
+      "ProjectGuid": "3dae92ca-1cf8-479c-8515-b62431eca83f",
+      "DisplayName": "monastery_app",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
