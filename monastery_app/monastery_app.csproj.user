@@ -16,6 +16,9 @@
     <Compile Update="Forms\ItemsForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\OffersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\OfferStatusesForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -35,6 +38,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\TypeTasksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UsersForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
