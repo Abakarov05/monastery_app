@@ -35,3 +35,4 @@ D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\D
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.OffersForm.resources
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.UsersForm.resources
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.TodoesForm.resources
+D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.SalariesForm.resources
