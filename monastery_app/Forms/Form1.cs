@@ -1,12 +1,5 @@
 ﻿using monastery_app.Forms;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace monastery_app
@@ -32,7 +25,9 @@ namespace monastery_app
 
         private void button18_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            AuthForm authForm = new AuthForm();
+            authForm.Show();
+            this.Hide();
         }
 
         private void button11_Click(object sender, EventArgs e)

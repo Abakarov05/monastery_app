@@ -42,3 +42,4 @@ D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\D
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\bin\Debug\net5.0-windows\itextsharp.dll
 D:\Education\Курсовая работа\app\monastery_app\monastery_app\bin\Debug\net5.0-windows\Maroquio.dll
+D:\Education\Курсовая работа\app\monastery_app\monastery_app\obj\Debug\net5.0-windows\monastery_app.Forms.PriestForm.resources

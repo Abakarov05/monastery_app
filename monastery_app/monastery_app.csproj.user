@@ -28,6 +28,9 @@
     <Compile Update="Forms\OfferStatusesForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\PriestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\RolesForm.cs">
       <SubType>Form</SubType>
     </Compile>

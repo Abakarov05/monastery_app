@@ -25,21 +25,15 @@ namespace monastery_app.Forms
                 var users = user.Objs.FirstOrDefault(users => users.UserLogin == textBox1.Text && users.UserPassword == pass);
                 switch ((await new Roles { Id = (int)users.IdRole }.Get()).RoleName)
                 {
-                    case "Admin":
+                    case "Администратор":
                         Form1 mainform = new Form1();
-                        this.Hide();
                         mainform.Show();
-                        break;
-                    case "Priest":
-                        Form1 mainform2 = new Form1();
                         this.Hide();
-                        mainform2.Show();
-                        mainform2.button2.Visible = false;
-                        //mainform2.tabControl3.Visible = false;
-                        //mainform2.tabControl7.Visible = false;
-                        //mainform2.tabControl8.Visible = false;
-                        //mainform2.tabControl5.Visible = false;
-                        //mainform2.tabControl4.Visible = false;
+                        break;
+                    case "Священник":
+                        PriestForm priestform = new PriestForm();
+                        priestform.Show();
+                        this.Hide();
                         break;
                     default:
                         return;
@@ -70,6 +64,11 @@ namespace monastery_app.Forms
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

@@ -240,7 +240,7 @@
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(100, 30);
             this.button18.TabIndex = 18;
-            this.button18.Text = "Выход";
+            this.button18.Text = "Назад";
             this.button18.UseVisualStyleBackColor = true;
             this.button18.Click += new System.EventHandler(this.button18_Click);
             // 
@@ -289,24 +289,24 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Button button16;
         private System.Windows.Forms.Button button17;
-        private System.Windows.Forms.Button button18;
-        private System.Windows.Forms.Button button19;
         public System.Windows.Forms.Button button2;
+        public System.Windows.Forms.Button button1;
+        public System.Windows.Forms.Button button3;
+        public System.Windows.Forms.Button button4;
+        public System.Windows.Forms.Button button5;
+        public System.Windows.Forms.Button button6;
+        public System.Windows.Forms.Button button7;
+        public System.Windows.Forms.Button button8;
+        public System.Windows.Forms.Button button9;
+        public System.Windows.Forms.Button button10;
+        public System.Windows.Forms.Button button11;
+        public System.Windows.Forms.Button button12;
+        public System.Windows.Forms.Button button13;
+        public System.Windows.Forms.Button button14;
+        public System.Windows.Forms.Button button15;
+        public System.Windows.Forms.Button button16;
+        public System.Windows.Forms.Button button18;
+        public System.Windows.Forms.Button button19;
     }
 }
